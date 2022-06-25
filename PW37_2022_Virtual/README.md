@@ -60,6 +60,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
 * [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/Readme.md) (Cosmin Ciausu)
+* [SlicerVirtualEndoscopy](Projects/SlicerVirtualEndoscopy/Readme.md) (Yi Gao, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
 
 
 ### Landmark identification
@@ -67,6 +68,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Quantification tool
 * [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/Readme.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
+* [SlicerPoissonShapeAnalysis](Projects/SlicerPoissonShapeAnalysis/Readme.md) (Yi Gao, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
     
 ### SlicerDMRI
 
@@ -79,6 +81,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
 * [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
 * [Slicer 5++: ](Projects/Slicer5Plus/README.md) (Sam Horvath, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
+* [SlicerScope](Projects/SlicerScope/README.md) (Yi Gao, Andras Lasso, Steve Pieper)
 
 ## Registrants
 
@@ -160,6 +163,7 @@ List of registered participants so far (names will be added here after processin
 1.	Nicolas Yanez	,	Philips	,	United States
 1.	Renjie He	,	MDACC	,	USA
 1.	Hanad Elmi	,	Queen's University	,	Canada
+1.	Yi Gao, Shenzhen University, China
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
